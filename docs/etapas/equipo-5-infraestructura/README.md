@@ -1,24 +1,24 @@
 # Equipo 5: Infraestructura
 
-**Objetivo:** Analizar como almacenar, procesar y visualizar la informacion generada por el sistema.
+**Objetivo:** Analizar cómo almacenar, procesar y visualizar la información generada por el sistema.
 
-## Flujo de informacion
+## Flujo de información
 
-Los datos generados por los dispositivos en campo deben ser recibidos, almacenados y presentados de forma util para los usuarios finales.
+Los datos generados por los dispositivos en campo deben ser recibidos, almacenados y presentados de forma útil para los usuarios finales.
 
 ```
-Dispositivos en campo --> Gateway --> Servidor --> Base de datos --> Aplicacion web
-     (LoRa)              (Internet)   (Procesamiento)  (Almacenamiento)  (Visualizacion)
+Dispositivos en campo --> Gateway --> Servidor --> Base de datos --> Aplicación web
+     (LoRa)              (Internet)   (Procesamiento)  (Almacenamiento)  (Visualización)
 ```
 
 ## Temas a investigar
 
-| Tema | Que hay que responder |
+| Tema | Qué hay que responder |
 |------|----------------------|
-| **Servidores** | ?Que es un servidor? ?Que hardware minimo necesita Red Condor? ?Se puede usar una PC reciclada? ?Que SO usar (Linux, Windows)? ?Que es Docker? |
-| **Bases de datos** | ?Que tipos de bases de datos existen (SQL vs NoSQL)? ?Que es InfluxDB (series temporales)? ?Como se almacenan datos de sensores y GPS? |
-| **Aplicaciones web** | ?Como se crea un dashboard para visualizar datos? ?Que es Grafana? ?Como se accede desde cualquier dispositivo? |
-| **Monitoreo** | ?Como se generan alertas en tiempo real? ?Que es MQTT? ?Que es Node-RED? ?Como se envia una alerta por email o Telegram? |
+| **Servidores** | ¿Qué es un servidor? ¿Qué hardware mínimo necesita Red Condor? ¿Se puede usar una PC reciclada? ¿Qué SO usar (Linux, Windows)? ¿Qué es Docker? |
+| **Bases de datos** | ¿Qué tipos de bases de datos existen (SQL vs NoSQL)? ¿Qué es InfluxDB (series temporales)? ¿Cómo se almacenan datos de sensores y GPS? |
+| **Aplicaciones web** | ¿Cómo se crea un dashboard para visualizar datos? ¿Qué es Grafana? ¿Cómo se accede desde cualquier dispositivo? |
+| **Monitoreo** | ¿Cómo se generan alertas en tiempo real? ¿Qué es MQTT? ¿Qué es Node-RED? ¿Cómo se envía una alerta por email o Telegram? |
 
 ## Actividades
 

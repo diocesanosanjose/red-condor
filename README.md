@@ -1,47 +1,47 @@
-# Red Condor -- Red Rural Autonoma de Comunicaciones y Alertas
+# Red Cóndor -- Red Rural Autónoma de Comunicaciones y Alertas
 
-Proyecto educativo y comunitario del **Colegio Diocesano San Jose** (Malargue, Mendoza, Argentina) que busca diseñar, construir y operar una red rural autonoma de comunicaciones y alertas basada en tecnologia **LoRa/Meshtastic** para zonas de montaña del departamento de Malargue.
+Proyecto educativo y comunitario del **Colegio Diocesano San José** (Malargüe, Mendoza, Argentina) que busca diseñar, construir y operar una red rural autónoma de comunicaciones y alertas basada en tecnología **LoRa/Meshtastic** para zonas de montaña del departamento de Malargüe.
 
 ## El problema
 
-Puesteros y crianceros de la zona de Bardas Blancas y corredores aledaños quedan incomunicados durante temporales invernales, con antecedentes de fallecidos por no poder pedir ayuda. Las comunicaciones celulares no tienen cobertura en la mayoria del territorio rural.
+Puesteros y crianceros de la zona de Bardas Blancas y corredores aledaños quedan incomunicados durante temporales invernales, con antecedentes de fallecidos por no poder pedir ayuda. Las comunicaciones celulares no tienen cobertura en la mayoría del territorio rural.
 
-## La solucion
+## La solución
 
 Red mesh de radios LoRa de bajo consumo, con:
-- **Nodos moviles** para los puesteros (boton de alerta + GPS + mensajes de texto)
-- **Gateways fijos** con conexion a internet satelital o rural
-- **Repetidores solares autonomos** en puntos elevados
-- **Servidor central** en el Colegio San Jose que recibe, procesa y distribuye las alertas
+- **Nodos móviles** para los puesteros (botón de alerta + GPS + mensajes de texto)
+- **Gateways fijos** con conexión a internet satelital o rural
+- **Repetidores solares autónomos** en puntos elevados
+- **Servidor central** en el Colegio San José que recibe, procesa y distribuye las alertas
 
 ## Estado
 
-**Fase de diseno conceptual.** No se ha comprado hardware. No se han realizado pruebas RF de campo. La infraestructura escolar base esta operativa.
+**Fase de diseño conceptual.** No se ha comprado hardware. No se han realizado pruebas RF de campo. La infraestructura escolar base está operativa.
 
 ## Etapas
 
 | Etapa | Objetivo | Estado |
 |-------|----------|--------|
-| 0 -- Fundamentos | Marco institucional, simulacion RF, repositorio | En progreso |
+| 0 -- Fundamentos | Marco institucional, simulación RF, repositorio | En progreso |
 | 1 -- Prueba de concepto | 2 nodos funcionando con Meshtastic | Pendiente |
-| 2 -- Mapeo urbano | Caracterizar RF en Malargue | Pendiente |
+| 2 -- Mapeo urbano | Caracterizar RF en Malargüe | Pendiente |
 | 3 -- Pruebas rurales | Cobertura en corredor Bardas Blancas | Pendiente |
-| 4 -- Gateway | Conectar red LoRa al servidor San Jose | Pendiente |
+| 4 -- Gateway | Conectar red LoRa al servidor San José | Pendiente |
 | 5 -- Repetidores solares | Extender cobertura | Pendiente |
-| 6 -- Sensores climaticos | Telemetria ambiental | Pendiente |
-| 7 -- Plataforma avanzada | Alertas automaticas y mapas | Pendiente |
+| 6 -- Sensores climáticos | Telemetría ambiental | Pendiente |
+| 7 -- Plataforma avanzada | Alertas automáticas y mapas | Pendiente |
 
-## Equipos de investigacion (Etapa 0)
+## Equipos de investigación (Etapa 0)
 
-| Equipo | Area | Carpeta |
+| Equipo | Área | Carpeta |
 |--------|------|---------|
 | 1 | Comunicaciones (LoRa, antenas, cobertura) | `docs/etapas/equipo-1-comunicaciones/` |
-| 2 | Energia (paneles solares, baterias, autonomia) | `docs/etapas/equipo-2-energia/` |
+| 2 | Energía (paneles solares, baterías, autonomía) | `docs/etapas/equipo-2-energia/` |
 | 3 | Hardware (ESP32, sensores, GPS, carcasas) | `docs/etapas/equipo-3-hardware/` |
 | 4 | Usuarios (puesteros, rescatistas, necesidades) | `docs/etapas/equipo-4-usuarios/` |
 | 5 | Infraestructura (servidores, bases de datos, monitoreo) | `docs/etapas/equipo-5-infraestructura/` |
 
-Ver [docs/etapas/etapa-0-organizacion-equipos.md](docs/etapas/etapa-0-organizacion-equipos.md) para la guia completa.
+Ver [docs/etapas/etapa-0-organizacion-equipos.md](docs/etapas/etapa-0-organizacion-equipos.md) para la guía completa.
 
 ## Estructura del repositorio
 
@@ -51,8 +51,8 @@ red-condor/
 ├── docs/
 │   ├── contexto/               # Documentos de contexto y versiones
 │   ├── etapas/                 # Informes de cada etapa
-│   ├── hardware/               # Fichas tecnicas de cada nodo
-│   ├── servidor/               # Configuracion, servicios, backups
+│   ├── hardware/               # Fichas técnicas de cada nodo
+│   ├── servidor/               # Configuración, servicios, backups
 │   ├── protocolos/             # Procedimientos operativos
 │   └── decisiones/             # Registro de decisiones (ADR)
 ├── firmware/                   # Versiones de firmware y configuraciones
@@ -62,9 +62,9 @@ red-condor/
 └── protocolos/                 # Procedimientos operativos detallados
 ```
 
-## Institucion
+## Institución
 
-**Colegio Diocesano San Jose** -- Malargue, Mendoza, Argentina
+**Colegio Diocesano San José** -- Malargüe, Mendoza, Argentina
 
 Autor: Paulo Alvarez · alvarezpaulo82@gmail.com
 

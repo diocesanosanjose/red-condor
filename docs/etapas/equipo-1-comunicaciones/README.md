@@ -1,16 +1,16 @@
 # Equipo 1: Comunicaciones
 
-**Objetivo:** Comprender como transmitir informacion en zonas rurales o de montana donde no existe conectividad tradicional.
+**Objetivo:** Comprender cómo transmitir información en zonas rurales o de montaña donde no existe conectividad tradicional.
 
 ## Temas a investigar
 
-| Tema | Que hay que responder |
+| Tema | Qué hay que responder |
 |------|----------------------|
-| **LoRa** | ?Como funciona LoRa? ?Que es Chirp Spread Spectrum? ?Que frecuencias se usan en Argentina? ?Que alcance maximo tiene en condiciones reales? |
-| **Radioenlaces** | ?Como se transmite informacion punto a punto sin infraestructura de red? ?Que es una red mesh? |
-| **Antenas** | ?Que tipos de antenas existen? ?Cual es mejor para zonas de montana? ?Que es la ganancia (dBi)? ?Omnidireccional vs direccional? |
-| **Cobertura** | ?Que factores geograficos afectan la propagacion de radio? ?Como afectan las montanas, la vegetacion, el clima? |
-| **Repetidores** | ?Como se extiende el alcance en terreno dificil? ?Cuantos repetidores se necesitan para cubrir un corredor? |
+| **LoRa** | ¿Cómo funciona LoRa? ¿Qué es Chirp Spread Spectrum? ¿Qué frecuencias se usan en Argentina? ¿Qué alcance máximo tiene en condiciones reales? |
+| **Radioenlaces** | ¿Cómo se transmite información punto a punto sin infraestructura de red? ¿Qué es una red mesh? |
+| **Antenas** | ¿Qué tipos de antenas existen? ¿Cuál es mejor para zonas de montaña? ¿Qué es la ganancia (dBi)? ¿Omnidireccional vs direccional? |
+| **Cobertura** | ¿Qué factores geográficos afectan la propagación de radio? ¿Cómo afectan las montañas, la vegetación, el clima? |
+| **Repetidores** | ¿Cómo se extiende el alcance en terreno difícil? ¿Cuántos repetidores se necesitan para cubrir un corredor? |
 
 ## Actividades
 
