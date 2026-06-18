@@ -1,0 +1,3 @@
+# Preguntas abiertas
+
+Pendiente.

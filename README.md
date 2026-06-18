@@ -31,6 +31,18 @@ Red mesh de radios LoRa de bajo consumo, con:
 | 6 -- Sensores climaticos | Telemetria ambiental | Pendiente |
 | 7 -- Plataforma avanzada | Alertas automaticas y mapas | Pendiente |
 
+## Equipos de investigacion (Etapa 0)
+
+| Equipo | Area | Carpeta |
+|--------|------|---------|
+| 1 | Comunicaciones (LoRa, antenas, cobertura) | `docs/etapas/equipo-1-comunicaciones/` |
+| 2 | Energia (paneles solares, baterias, autonomia) | `docs/etapas/equipo-2-energia/` |
+| 3 | Hardware (ESP32, sensores, GPS, carcasas) | `docs/etapas/equipo-3-hardware/` |
+| 4 | Usuarios (puesteros, rescatistas, necesidades) | `docs/etapas/equipo-4-usuarios/` |
+| 5 | Infraestructura (servidores, bases de datos, monitoreo) | `docs/etapas/equipo-5-infraestructura/` |
+
+Ver [docs/etapas/etapa-0-organizacion-equipos.md](docs/etapas/etapa-0-organizacion-equipos.md) para la guia completa.
+
 ## Estructura del repositorio
 
 ```
