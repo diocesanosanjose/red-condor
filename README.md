@@ -1,6 +1,6 @@
 # Red Condor -- Red Rural Autonoma de Comunicaciones y Alertas
 
-Proyecto educativo y comunitario del **Colegio Diocesano San Jose** (Malargue, Mendoza, Argentina) que busca disenar, construir y operar una red rural autonoma de comunicaciones y alertas basada en tecnologia **LoRa/Meshtastic** para zonas de montana del departamento de Malargue.
+Proyecto educativo y comunitario del **Colegio Diocesano San Jose** (Malargue, Mendoza, Argentina) que busca diseñar, construir y operar una red rural autonoma de comunicaciones y alertas basada en tecnologia **LoRa/Meshtastic** para zonas de montana del departamento de Malargue.
 
 ## El problema
 
