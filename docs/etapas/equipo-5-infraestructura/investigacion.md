@@ -1,4 +1,4 @@
-# Investigación Infraestructura - Santiago Balverdi
+# Investigación Infraestructura
 
 Red Cóndor: Infraestructura Tecnológica y Lógica de Datos
 1. Servidores y Hardware
