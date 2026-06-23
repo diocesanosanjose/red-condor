@@ -1,5 +1,21 @@
 # Investigacion
+
+**SOBRE LOS PUESTEROS**
+
+Los puesteros son pobladores rurales y crianceros del departamento de Malargüe, al sur de Mendoza, que practican la ganadería de subsistencia, principalmente caprina. Son un pilar de la identidad cultural local y llevan más de un siglo adaptando sus prácticas de arreo a la geografía y el clima de la cordillera.
+
+**La vida de un puestero malargüino**
+
+Su estilo de vida se caracteriza por la trashumancia, que consiste en trasladar sus animales (chivos, vacas y caballos) según la estación del año:
+
+ ° Invernada: Durante el invierno, los animales se mantienen en zonas más bajas y protegidas cerca del puesto, donde las familias se resguardan de las nevadas intensas.
+ 
+ ° Veranada: En los meses cálidos, suben a las altas cumbres de la cordillera de los Andes en busca de pasturas frescas para engordar el ganado.
+ 
+Las familias de puesteros suelen vivir en parajes alejados del centro urbano.
+
 **AREA DE LOS PUESTOS**
+
 Área del Río Grande y Ruta Provincial 186: Camino hacia la zona de La Payunia y la Laguna Cari Lauquen.
 
 Cuenca del Río Malargüe y Ruta Nacional 40 Sur: Hacia Bardas Blancas y áreas cercanas a la Caverna de las Brujas.
