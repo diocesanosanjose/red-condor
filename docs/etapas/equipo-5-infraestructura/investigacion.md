@@ -1,7 +1,5 @@
 # Investigación Infraestructura
 
-# Investigación - Equipo 5: Infraestructura (Almacenamiento, Procesamiento y Visualización)
-
 ## Servidores
 - **¿Qué es un servidor?** Computadora (o conjunto de ellas) que proporciona servicios a otros dispositivos en red (almacenamiento de datos, procesamiento, hosting de aplicaciones).
 - **Hardware mínimo para Red Cóndor**: PC reciclada como la mencionada (i5-3320M, 4 GB RAM, SSD 120 GB) es viable. Docker reduce el consumo. Recomendación: mínimo 4-8 GB RAM y CPU de 2+ núcleos para correr contenedores (Meshtastic API, MQTT, Node-RED, InfluxDB, Grafana).
