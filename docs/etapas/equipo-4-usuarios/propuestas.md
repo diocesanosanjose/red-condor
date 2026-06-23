@@ -1,3 +1,5 @@
 # Propuestas para Red Condor
 
-Pendiente.
+Entrevistas con los puesteros
+
+ir a bardasblancas
