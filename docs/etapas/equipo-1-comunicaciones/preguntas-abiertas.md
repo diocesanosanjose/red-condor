@@ -1,7 +1,6 @@
 # Preguntas Abiertas - Equipo 1 Comunicaciones
 
 ## LoRa y Frecuencias
-- ¿Cuál es el spreading factor óptimo para terreno montañoso de Malargüe?
 - ¿Hay riesgo real de interferencia en la banda 915 MHz en la zona?
 - ¿Es posible solicitar una autorización experimental a ENACOM para uso escolar?
 
@@ -16,5 +15,4 @@
 - ¿Cómo se evita que la red mesh se sature con muchos usuarios?
 
 ## General
-- ¿Existen mapas de cobertura RF simulados para Malargüe (usando DEM)?
 - ¿Qué experiencia tienen otros proyectos similares en la Cordillera?
