@@ -1,4 +1,4 @@
-# Preguntas abiertas
+# Preguntas abiertas Infraestructura
 
 ## Servidores y Hardware
 - ¿La PC reciclada i5-3320M con 4 GB RAM soporta bien la carga de 2-3 gateways + telemetría? ¿Necesitamos subir a 8 GB?
