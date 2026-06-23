@@ -4,8 +4,7 @@
 1. Usar **915 MHz** con Meshtastic + preset de largo alcance (SF alto) para pruebas iniciales.
 2. Diseñar repetidores solares en cerros con antenas omnidireccionales de 5-8 dBi.
 3. Nodos móviles con antena flexible omnidireccional + opción de antena externa.
-4. Realizar simulación RF con herramientas como Radio Mobile o SPLAT! antes de salidas de campo.
-5. Incluir medición de RSSI/SNR en todas las pruebas para construir mapa de cobertura.
+4. Incluir medición de RSSI/SNR en todas las pruebas para construir mapa de cobertura.
 
 ## Propuestas Educativas
 - Actividad práctica: Armar y probar dos nodos en el colegio (alcance urbano).
