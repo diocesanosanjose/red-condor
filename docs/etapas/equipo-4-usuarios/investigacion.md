@@ -51,6 +51,6 @@ El Grupo Especial de Alta Montaña, perteneciente al Escuadrón 29 "Malargüe", 
 
 Patrulla de Rescate de la Policía de Mendoza: Unidad de elite de la fuerza provincial que se despliega activamente hacia el sur mendocino ante grandes contingencias climáticas, misiones de andinismo complejas o evacuaciones en sectores de difícil acceso
 
-**LA RED CONDOR ES UTIL/NECESARIA POR:**
+**LA RED CONDOR ES UTIL/NECESARIA PORQUE:**
 
 Quiere crear una red rural autónoma de comunicaciones y alertas mediante tecnología LoRa/Meshtastic para zonas de montaña sin cobertura celular. Buscando asistir a puesteros y crianceros aislados mediante nodos móviles con botones de emergencia, GPS y mensajería
