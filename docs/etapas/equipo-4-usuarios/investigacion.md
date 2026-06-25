@@ -14,6 +14,13 @@ Su estilo de vida se caracteriza por la trashumancia, que consiste en trasladar 
  
 Las familias de puesteros suelen vivir en parajes alejados del centro urbano.
 
+**TIEMPO QUE ESTAN EN VERANADA**
+
+Los crianceros y puesteros trashumantes de Malargüe pueden pasar hasta 4 a 6 meses seguidos en la alta montaña sin bajar a la ciudad durante la temporada de verano.
+
+**COMUNICACIÓN**
+       _Sus principales
+
 **AREA DE LOS PUESTOS**
 
 Área del Río Grande y Ruta Provincial 186: Camino hacia la zona de La Payunia y la Laguna Cari Lauquen.
