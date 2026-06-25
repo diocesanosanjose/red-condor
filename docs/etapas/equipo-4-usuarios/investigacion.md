@@ -42,3 +42,13 @@ Distrito Río Barrancas: En la zona limítrofe suroeste.
 Agua Escondida: Hacia el este, en zonas de llanura y monte.
 
 Valle Hermoso: Utilizados principalmente como "veranadas" durante el verano.
+
+
+
+**Rescate en Alta Montaña y Zonas RuralesGendarmería Nacional (GEAM):**
+
+El Grupo Especial de Alta Montaña, perteneciente al Escuadrón 29 "Malargüe", es el principal respondiente en el territorio cordillerano. Intervienen a pie, a caballo o con vehículos especiales para evacuar puesteros, docentes o turistas aislados por temporales de nieve en rutas y parajes alejados.
+
+Patrulla de Rescate de la Policía de Mendoza: Unidad de elite de la fuerza provincial que se despliega activamente hacia el sur mendocino ante grandes contingencias climáticas, misiones de andinismo complejas o evacuaciones en sectores de difícil acceso.
+
+
