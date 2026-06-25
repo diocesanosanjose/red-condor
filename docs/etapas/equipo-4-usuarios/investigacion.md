@@ -19,7 +19,17 @@ Las familias de puesteros suelen vivir en parajes alejados del centro urbano.
 Los crianceros y puesteros trashumantes de Malargüe pueden pasar hasta 4 a 6 meses seguidos en la alta montaña sin bajar a la ciudad durante la temporada de verano.
 
 **COMUNICACIÓN**
-       _Sus principales
+     
+   _Sus principales metodos son:
+
+Radios de Comunicación (VHF / UHF)(alertas meteorológicas)
+
+Radios AM/FM
+
+Telefonía satelital
+
+Telefonía movil(WhatsApp)
+esta es solocon señal.
 
 **AREA DE LOS PUESTOS**
 
